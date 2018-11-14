@@ -11,13 +11,12 @@ $ open https://cmake.org/Wiki/CMake:CPackPackageGenerators
 - [x] 1. Создать публичный репозиторий с названием **lab08** на сервисе **GitHub**
 - [x] 2. Выполнить инструкцию учебного материала
 - [x] 3. Ознакомиться со ссылками учебного материала
-- [x] 4. Составить отчет и отправить ссылку личным сообщением в **Slack**
 
 ## Tutorial
 
 ```ShellSession
-$ export GITHUB_USERNAME=Alexey01M
-$ export GITHUB_EMAIL=B2017-17VIU01M@yandex.ru
+$ export GITHUB_USERNAME=kirill.isaev
+$ export GITHUB_EMAIL=kirill.isaev.yahoo.com
 $ alias edit=nano
 $ alias gsed=sed # for *-nix system
 ```
